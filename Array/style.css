@@ -1,0 +1,7 @@
+:root {
+    --cor1: pink;
+}
+
+#h2 {
+    color: var(--cor1)
+}
